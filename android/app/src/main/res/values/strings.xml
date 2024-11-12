@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">719259329858147</string>
+    <string name="fb_login_protocol_scheme">fb719259329858147</string>
+    <string name="facebook_client_token">e2c2275acd6ed4fdba403e5c18b5c4e2</string>
+    <string name="app_name">"HomeMady App"</string>
+
+</resources>
+
+
+

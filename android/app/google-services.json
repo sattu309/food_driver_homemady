@@ -1,0 +1,246 @@
+{
+  "project_info": {
+    "project_number": "583798062201",
+    "project_id": "homemady-7cdc6",
+    "storage_bucket": "homemady-7cdc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583798062201:android:b928c662cdd39cfd6068a8",
+        "android_client_info": {
+          "package_name": "com.example.homemady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583798062201-bc7d5gptlqh4lav05etalspbc8fc8nlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homemady",
+            "certificate_hash": "1fc7acb64493e1fcdff1abcb16954ffb0b58bce8"
+          }
+        },
+        {
+          "client_id": "583798062201-nath3pibkmlt6ekrrcf0kp42pjbro80d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homemady",
+            "certificate_hash": "e1dac2d8b163a6eafdaa7b48fc6054939665bf99"
+          }
+        },
+        {
+          "client_id": "583798062201-o42qn07orc23qep1pem1ki48j27k08bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JeOBxmrSj-MJunI6IkbmRslcIf04qX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583798062201-43cja3cg5j0s94khk7cotpu3npajn2gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583798062201-b6otp6vedh576cgfml3naasod23i2u5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homemady.vendor.cook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583798062201:android:022d4f33e1e2e77e6068a8",
+        "android_client_info": {
+          "package_name": "com.example.homemady_cooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583798062201-pbp2b5ugi6v6hor8nr7u7dhas7nluk8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homemady_cooks",
+            "certificate_hash": "e1dac2d8b163a6eafdaa7b48fc6054939665bf99"
+          }
+        },
+        {
+          "client_id": "583798062201-vhqb96upuflblfgcm710c5mvark0peak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homemady_cooks",
+            "certificate_hash": "ce0d978be9db4f56843a814dc963506c6edcc4c8"
+          }
+        },
+        {
+          "client_id": "583798062201-o42qn07orc23qep1pem1ki48j27k08bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JeOBxmrSj-MJunI6IkbmRslcIf04qX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583798062201-43cja3cg5j0s94khk7cotpu3npajn2gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583798062201-b6otp6vedh576cgfml3naasod23i2u5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homemady.vendor.cook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583798062201:android:7f233e626c197bff6068a8",
+        "android_client_info": {
+          "package_name": "com.homemady.homemady_drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583798062201-9d28tlbm6u86ebai9u91tr53o12ctmoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homemady.homemady_drivers",
+            "certificate_hash": "1fc7acb64493e1fcdff1abcb16954ffb0b58bce8"
+          }
+        },
+        {
+          "client_id": "583798062201-vut7fp5uelvj157ifofdd8b41bq327uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homemady.homemady_drivers",
+            "certificate_hash": "93f9b16a3f994c4816000fd384de9e92fa006c39"
+          }
+        },
+        {
+          "client_id": "583798062201-o42qn07orc23qep1pem1ki48j27k08bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JeOBxmrSj-MJunI6IkbmRslcIf04qX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583798062201-43cja3cg5j0s94khk7cotpu3npajn2gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583798062201-b6otp6vedh576cgfml3naasod23i2u5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homemady.vendor.cook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583798062201:android:fb50aaa74a186ef36068a8",
+        "android_client_info": {
+          "package_name": "com.homemady.homemady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583798062201-h6viducj3gl1g324qm578m4tnq9v8q8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homemady.homemady",
+            "certificate_hash": "e1dac2d8b163a6eafdaa7b48fc6054939665bf99"
+          }
+        },
+        {
+          "client_id": "583798062201-o42qn07orc23qep1pem1ki48j27k08bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JeOBxmrSj-MJunI6IkbmRslcIf04qX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583798062201-43cja3cg5j0s94khk7cotpu3npajn2gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583798062201-b6otp6vedh576cgfml3naasod23i2u5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homemady.vendor.cook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583798062201:android:b4380487d002cb506068a8",
+        "android_client_info": {
+          "package_name": "com.homemady.homemady_drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583798062201-o42qn07orc23qep1pem1ki48j27k08bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1JeOBxmrSj-MJunI6IkbmRslcIf04qX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583798062201-43cja3cg5j0s94khk7cotpu3npajn2gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583798062201-b6otp6vedh576cgfml3naasod23i2u5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homemady.vendor.cook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

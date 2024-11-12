@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>583798062201-q1r6p1nuqam8kvusmr5n5mgdv719ghcl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.583798062201-q1r6p1nuqam8kvusmr5n5mgdv719ghcl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>583798062201-bc7d5gptlqh4lav05etalspbc8fc8nlh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAu3WIo8GRPQPIjnGhega0LaGNrc4qd__o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>583798062201</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.homemady.driver</string>
+	<key>PROJECT_ID</key>
+	<string>homemady-7cdc6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>homemady-7cdc6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:583798062201:ios:e72a7c03389e7a7d6068a8</string>
+</dict>
+</plist>
